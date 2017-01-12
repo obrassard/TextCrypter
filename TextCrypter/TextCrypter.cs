@@ -96,7 +96,7 @@ namespace TextCrypter
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://github.com/obrassard");
+            System.Diagnostics.Process.Start("https://github.com/obrassard/TextCrypter");
             MessageBox.Show("[v1.0] - Codé par Olivier Brassard, 2017.");
         }
     }
